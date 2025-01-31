@@ -75,7 +75,7 @@ The dashboard was designed based on a client request to analyze **road accident 
 
 ## 🚀 How to Use
 
-1. **Download the Excel File**: [Link to File](#) 
+1. **Download the Excel File**: [Link to File](https://github.com/Vinay-chowdary-08/Road-Accident-Analysis/blob/main/Road_Accident_Data.xlsx) 
 2. Open the file in **Microsoft Excel**.
 3. Use the **slicers (filters)** on the right to dynamically adjust the data.
 4. Explore different accident trends using the **interactive charts**.
