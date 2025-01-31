@@ -6,7 +6,7 @@ This project presents a **Road Accidents Dashboard** built using **Microsoft Exc
 
 ## 📷 Dashboard Preview
 
-
+![Road_accident_Dashboard](Dashboard.png)
 
 ---
 
